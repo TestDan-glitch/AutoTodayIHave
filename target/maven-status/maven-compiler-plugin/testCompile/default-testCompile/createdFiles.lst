@@ -1,0 +1,7 @@
+starter\stepdefinitions\HomePageSteps.class
+starter\SingleTest.class
+pages\HomePage.class
+pages\NewUpdatePage.class
+navigation\NavigateToTodayIHave.class
+starter\stepdefinitions\NewUpdatePageSteps.class
+navigation\TodayIHaveHomePage.class
